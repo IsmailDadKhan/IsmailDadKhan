@@ -1,5 +1,36 @@
 # 💫 About Me:
-Hello! 👋<br>I'm Ismail, an undergraduate Computer Science student passionate about coding, problem-solving, and exploring the ever-evolving world of technology. <br><br>💻 Skills: Python, C++, MS SQL, Flask, Orical.<br>🌱 Currently Learning:  Web development, data structures & algorithms, DataBase.<br>🚀 Projects: Working on academic and personal projects, including [A command-line interface to read, search, and analyse the Holy Quran in multiple languages.].<br>📚 Interests: Workout, Coding, Data Science.<br>🤝 Looking to Collaborate On Open-source projects, speed programming, and innovative ideas.<br><br>I'm eager to grow, learn, and impact the tech community. Feel free to check out my repositories and reach out for collaborations or discussions!
+👋 Hello! I'm Ismail
+
+A Curious Mind Exploring Data, Code & Digital Growth
+
+🎓 Undergraduate CS Student | Data & Tech Enthusiast
+What started with managing e-commerce brands and social media growth has now evolved into a passion for data analytics, programming, and problem-solving. I love turning ideas into real projects using code and data.
+
+🔧 Skills
+
+• Languages: Python, C++, SQL
+
+• Interests: Data Analysis, Automation, Visualization
+
+🎯 Currently Learning
+
+• Machine Learning & Advanced Statistics
+
+• Databases & SQL
+
+• Tools: Power BI, Pandas, NumPy
+
+🌱 Beyond Code
+
+🧠 Loves solving complex problems
+
+💬 Open to collaboration on data, open-source & AI projects
+
+🏋️‍♂️ Fitness + Tech = Balance
+
+🤝 Let’s Connect
+
+Always open to learning, mentoring, or building something impactful!
 
 
 ## 🌐 Socials:
